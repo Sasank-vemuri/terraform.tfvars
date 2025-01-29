@@ -1,1 +1,2 @@
-# terraform.tfvars
+content="Hello Puppy"
+prefix="THE"
